@@ -1,0 +1,7 @@
+{
+  "name": "sub2api-opencode-skill",
+  "version": "1.0.0",
+  "description": "Agent skill for configuring Sub2API as a provider in OpenCode",
+  "license": "MIT",
+  "private": true
+}
